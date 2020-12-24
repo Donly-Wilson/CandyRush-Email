@@ -1,0 +1,127 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&family=Rubik:wght@500;700" />
+    <mj-attributes>
+      <mj-all font-family="Open Sans, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      @media (max-width:480px) {
+        .left-image {
+          padding: 0 0 0 0 !important;
+        }
+
+        .right-image {
+          padding: 0 0 0 0 !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="600px">
+    <!-- Company Header -->
+    <mj-section padding="0" background-color="  linear-gradient(85deg, rgba(255,207,1,1) 0%, rgba(238,190,0,0.8) 100%);">
+      <mj-column width="580px">
+        <!-- <mj-image width="150px" padding="0" align="center" src="https://i.ibb.co/qN8PHkc/logo5.png" alt="logo5"/> -->
+        <mj-image width="150px" padding="0" align="center" src="./assets/img/logo5.png" alt="" />
+        <mj-text font-size="30px" font-weight="600" line-height="43px" color="#ffffff" font-family="Rubik">Thank you for subscribing with Candyrush. Where the rush is the desirable.</mj-text>
+        <mj-text font-size="15px" line-height="23px" color="#ffffff">We welcome you to our newsletter. Here we keep you up to date with every special event that is current. Offering top sales on the best candy so you never miss out on any occasion. Be sure to take a look around at our website, we make arrangements to suit you. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Image Header -->
+    <mj-section background-color="#ffffff" padding="0 0 10px 0">
+      <mj-column>
+        <!-- <mj-image width="600px" padding="0" src="https://i.ibb.co/H2xB3Tp/candy-bowl2.jpg" alt="candy-bowl2" /> -->
+        <mj-image width="600px" padding="0" src="./assets/img/candy-bowl2.jpg" />
+      </mj-column>
+
+    </mj-section>
+    <!-- Introduction Text -->
+    <mj-section background-color="#ffffff" padding-bottom="30px">
+      <mj-column width="580px">
+
+        <mj-text font-size="21px" font-weight="800" color="#000000" line-height="28px">Get 20% off our full bandle packages. Choosing any bandle service comes with free a delivary and location setup.</mj-text>
+        <mj-spacer height="10px" />
+        <mj-text font-size="15px" line-height="23px" color="#606060">
+          Over 8.8 million of our team are employed world wide to ensure that at no time we fall short at not dilevering on time. CandyRush has been around for little over a decade, twelve years to be exact. Alot has been learnt though out those years and our relationship with our customers have grown. Customer feedback is very important to us and we wish to hear from you becuase we appriciate every opinion.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- 1st snack section -->
+    <mj-section background-color="#ffffff" padding="0">
+      <!-- Left image -->
+      <mj-column>
+        <!-- <mj-image css-class="left-image" padding="0 3px 0 0" src="https://i.ibb.co/Css1mVS/marshmallows.jpg" alt="marshmallows" /> -->
+        <mj-image css-class="left-image" padding="0 3px 0 0" src="./assets/img/marshmallows.jpg" />
+        <mj-spacer height="6px" />
+      </mj-column>
+
+      <!-- right image -->
+      <mj-column>
+        <!-- <mj-image css-class="right-image" padding="0 0 0 3px" src="https://i.ibb.co/sJLcVdL/halloween.jpg" alt="halloween" /> -->
+        <mj-image css-class="right-image" padding="0 0 0 3px" src="./assets/img/halloween.jpg" alt="" />
+        <mj-spacer height="6px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2nd snack section -->
+    <mj-section background-color="#ffffff" padding="0 0 4px 0">
+      <!-- Left image -->
+      <mj-column>
+        <!-- <mj-image css-class="left-image" padding="0 3px 0 0" src="https://i.ibb.co/df31wHz/easter21.jpg" alt="easter21" /> -->
+        <mj-image css-class="left-image" padding="0 3px 0 0" src="./assets/img/easter21.jpg" />
+        <mj-spacer height="6px" />
+      </mj-column>
+
+      <!-- right image -->
+      <mj-column>
+        <!-- <mj-image css-class="right-image" padding="0 0 0 3px" src="https://i.ibb.co/QvRCDv8/red-snacks.jpg" alt="red-snacks" /> -->
+        <mj-image css-class="right-image" padding="0 0 0 3px" src="./assets/img/red-snacks.jpg" alt="" />
+        <mj-spacer height="6px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- cta section -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="580px">
+        <mj-text font-size="15px" line-height="23px" color="#606060">
+          We can't wait to serve you with our colorful treats that we have in stored. We respect each and everyone of our customers and to pay respect we offer your first ever gift. Here is your 25% off coupon for becoming a member of the Rush.
+        </mj-text>
+        <mj-button background-color="#ffffff" border="2px solid black" border-radius="none" color="black" font-weight="600" inner-padding="12px 38px" font-size="15px">
+          CLAIM
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Social icons -->
+    <mj-section background-color="#ffffff" border-top="2px solid #e7e7e7">
+      <mj-column>
+        <mj-social icon-size="16px" align="center" mode="horizontal">
+          <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/NFNKpp5/facebook.png" alt="facebook"/> -->
+          <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/d5FZ9m3/twitter.png" alt="twitter" /> -->
+          <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/x2nSGZZ/instagram.png" alt="instagram" /> -->
+          <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/gyRRtkC/youtube.png" alt="youtube"/> -->
+          <!-- <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/facebook.png" /> -->
+          <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/twitter.png" /> -->
+          <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/instagram.png" /> -->
+          <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/youtube.png" /> --> -->
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column padding="0">
+        <mj-text font-size="11px" align="center">
+          Labouire, 135, Castries, Saint Lucia
+        </mj-text>
+        <mj-text font-size="11px" align="center">
+          You may <a href="#">unsubscribe</a> or <a href="#">change your contact details</a> at any time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
+
+
+
