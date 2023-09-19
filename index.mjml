@@ -21,7 +21,7 @@
     <mj-section padding="0" background-color="  linear-gradient(85deg, rgba(255,207,1,1) 0%, rgba(238,190,0,0.8) 100%);">
       <mj-column width="580px">
         <!-- <mj-image width="150px" padding="0" align="center" src="https://i.ibb.co/qN8PHkc/logo5.png" alt="logo5"/> -->
-        <mj-image width="150px" padding="0" align="center" src="./assets/img/logo5.png" alt="" />
+        <mj-image width="150px" padding="0" align="center" src="./assets/img/candyRush/logo5.png" alt="" />
         <mj-text font-size="30px" font-weight="600" line-height="43px" color="#ffffff" font-family="Rubik">Thank you for subscribing with Candyrush. Where the rush is the desirable.</mj-text>
         <mj-text font-size="15px" line-height="23px" color="#ffffff">We welcome you to our newsletter. Here we keep you up to date with every special event that is current. Offering top sales on the best candy so you never miss out on any occasion. Be sure to take a look around at our website, we make arrangements to suit you. </mj-text>
       </mj-column>
@@ -30,7 +30,7 @@
     <mj-section background-color="#ffffff" padding="0 0 10px 0">
       <mj-column>
         <!-- <mj-image width="600px" padding="0" src="https://i.ibb.co/H2xB3Tp/candy-bowl2.jpg" alt="candy-bowl2" /> -->
-        <mj-image width="600px" padding="0" src="./assets/img/candy-bowl2.jpg" />
+        <mj-image width="600px" padding="0" src="./assets/img/candyRush/candy-bowl2.jpg" />
       </mj-column>
 
     </mj-section>
@@ -52,14 +52,14 @@
       <!-- Left image -->
       <mj-column>
         <!-- <mj-image css-class="left-image" padding="0 3px 0 0" src="https://i.ibb.co/Css1mVS/marshmallows.jpg" alt="marshmallows" /> -->
-        <mj-image css-class="left-image" padding="0 3px 0 0" src="./assets/img/marshmallows.jpg" />
+        <mj-image css-class="left-image" padding="0 3px 0 0" src="./assets/img/candyRush/marshmallows.jpg" />
         <mj-spacer height="6px" />
       </mj-column>
 
       <!-- right image -->
       <mj-column>
         <!-- <mj-image css-class="right-image" padding="0 0 0 3px" src="https://i.ibb.co/sJLcVdL/halloween.jpg" alt="halloween" /> -->
-        <mj-image css-class="right-image" padding="0 0 0 3px" src="./assets/img/halloween.jpg" alt="" />
+        <mj-image css-class="right-image" padding="0 0 0 3px" src="./assets/img/candyRush/halloween.jpg" alt="" />
         <mj-spacer height="6px" />
       </mj-column>
     </mj-section>
@@ -68,14 +68,14 @@
       <!-- Left image -->
       <mj-column>
         <!-- <mj-image css-class="left-image" padding="0 3px 0 0" src="https://i.ibb.co/df31wHz/easter21.jpg" alt="easter21" /> -->
-        <mj-image css-class="left-image" padding="0 3px 0 0" src="./assets/img/easter21.jpg" />
+        <mj-image css-class="left-image" padding="0 3px 0 0" src="./assets/img/candyRush/easter21.jpg" />
         <mj-spacer height="6px" />
       </mj-column>
 
       <!-- right image -->
       <mj-column>
         <!-- <mj-image css-class="right-image" padding="0 0 0 3px" src="https://i.ibb.co/QvRCDv8/red-snacks.jpg" alt="red-snacks" /> -->
-        <mj-image css-class="right-image" padding="0 0 0 3px" src="./assets/img/red-snacks.jpg" alt="" />
+        <mj-image css-class="right-image" padding="0 0 0 3px" src="./assets/img/candyRush/red-snacks.jpg" alt="" />
         <mj-spacer height="6px" />
       </mj-column>
     </mj-section>
@@ -95,15 +95,16 @@
     <!-- Social icons -->
     <mj-section background-color="#ffffff" border-top="2px solid #e7e7e7">
       <mj-column>
-        <mj-social icon-size="16px" align="center" mode="horizontal">
+        <mj-social icon-size="16px" align="center"
+         mode="horizontal">
           <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/NFNKpp5/facebook.png" alt="facebook"/> -->
           <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/d5FZ9m3/twitter.png" alt="twitter" /> -->
           <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/x2nSGZZ/instagram.png" alt="instagram" /> -->
           <!-- <mj-social-element padding="0 30px 0 0" src="https://i.ibb.co/gyRRtkC/youtube.png" alt="youtube"/> -->
-          <!-- <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/facebook.png" /> -->
-          <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/twitter.png" /> -->
-          <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/instagram.png" /> -->
-          <!-- <mj-social-element padding="0 30px 0 0" src="./assets/img/youtube.png" /> --> -->
+          <mj-social-element padding="0 30px 0 0" src="./assets/img/candyRush/facebook.png" />
+          <mj-social-element padding="0 30px 0 0" src="./assets/img/candyRush/twitter.png" />
+          <mj-social-element padding="0 30px 0 0" src="./assets/img/candyRush/instagram.png" />
+          <mj-social-element padding="0 30px 0 0" src="./assets/img/candyRush/youtube.png" />
         </mj-social>
       </mj-column>
     </mj-section>
