@@ -18,12 +18,19 @@
   </mj-head>
   <mj-body background-color="#ffffff" width="600px">
     <!-- Company Header -->
-    <mj-section padding="0" background-color="  linear-gradient(85deg, rgba(255,207,1,1) 0%, rgba(238,190,0,0.8) 100%);">
-      <mj-column width="580px">
+    <mj-section padding="0 10px" background-color="  linear-gradient(85deg, rgba(255,207,1,1) 0%, rgba(238,190,0,0.8) 100%);">
+      <mj-column>
         <!-- <mj-image width="150px" padding="0" align="center" src="https://i.ibb.co/qN8PHkc/logo5.png" alt="logo5"/> -->
         <mj-image width="150px" padding="0" align="center" src="./assets/img/candyRush/logo5.png" alt="" />
         <mj-text font-size="30px" font-weight="600" line-height="43px" color="#ffffff" font-family="Rubik">Thank you for subscribing with Candyrush. Where the rush is the desirable.</mj-text>
-        <mj-text font-size="15px" line-height="23px" color="#ffffff">We welcome you to our newsletter. Here we keep you up to date with every special event that is current. Offering top sales on the best candy so you never miss out on any occasion. Be sure to take a look around at our website, we make arrangements to suit you. </mj-text>
+        <mj-text font-size="15px" line-height="23px" color="#ffffff">
+          We can't wait to serve you with our colorful treats that we have in stored. We respect each and everyone of our customers and to pay respect we offer your first ever gift. Here is your 25% off coupon for becoming a member of the Rush.
+         </mj-text>
+        <mj-button href="#" background-color="#ff69b4" border="2px solid #282828" 
+        border-radius="none" color="#ffffff" font-weight="600" 
+        inner-padding="12px 38px" font-size="15px">
+          CLAIM 25% OFF
+        </mj-button>
       </mj-column>
     </mj-section>
     <!-- Image Header -->
@@ -35,10 +42,10 @@
 
     </mj-section>
     <!-- Introduction Text -->
-    <mj-section background-color="#ffffff" padding-bottom="30px">
-      <mj-column width="580px">
+    <mj-section background-color="#ffffff" padding="0 10px 30px 10px">
+      <mj-column>
 
-        <mj-text font-size="21px" font-weight="800" color="#000000" line-height="28px">Get 20% off our full bandle packages. Choosing any bandle service comes with free a delivary and location setup.</mj-text>
+        <mj-text font-size="21px" font-weight="800" color="#000000" line-height="28px">With 25% off our full bandle packages. Choosing any bandle service comes with free a delivary and location setup.</mj-text>
         <mj-spacer height="10px" />
         <mj-text font-size="15px" line-height="23px" color="#606060">
           Over 8.8 million of our team are employed world wide to ensure that at no time we fall short at not dilevering on time. CandyRush has been around for little over a decade, twelve years to be exact. Alot has been learnt though out those years and our relationship with our customers have grown. Customer feedback is very important to us and we wish to hear from you becuase we appriciate every opinion.
@@ -81,13 +88,15 @@
     </mj-section>
 
     <!-- cta section -->
-    <mj-section background-color="#ffffff">
-      <mj-column width="580px">
+    <mj-section background-color="#ffffff" padding="0 10px">
+      <mj-column>
         <mj-text font-size="15px" line-height="23px" color="#606060">
-          We can't wait to serve you with our colorful treats that we have in stored. We respect each and everyone of our customers and to pay respect we offer your first ever gift. Here is your 25% off coupon for becoming a member of the Rush.
+          A warm welcome you to our newsletter. Here we keep you up to date with every special event that is current. Offering top sales on the best candy so you never miss out on any occasion. Be sure to take a look around at our website, we make arrangements to suit you.
         </mj-text>
-        <mj-button background-color="#ffffff" border="2px solid black" border-radius="none" color="black" font-weight="600" inner-padding="12px 38px" font-size="15px">
-          CLAIM
+        <mj-button href="#" background-color="#ffffff" border="2px solid black" 
+        border-radius="none" color="black" font-weight="600" 
+        inner-padding="12px 38px" font-size="15px">
+          SEE MORE
         </mj-button>
       </mj-column>
     </mj-section>
